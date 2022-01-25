@@ -1,0 +1,16 @@
+{
+  "name": "image-resize-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Thaha Vp",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "multer": "^1.4.4",
+    "sharp": "^0.29.3"
+  }
+}
